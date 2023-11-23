@@ -2,7 +2,7 @@ import styled from "styled-components"
 
 const CustomButton = styled.button`
 
-width: 20%;
+width: 10%;
 padding: 10px;
 background: #2196F3;
 color: white;
